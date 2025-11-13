@@ -7,7 +7,7 @@ Full Stack Software Engineer
 I'm a Full-Stack Software Engineer with 5 years of experience, specializing in Python and Django. AWS, Agile, API. Clean code. Bilingual(JP/EN).
 
 - 🌍 I'm based in San Francisco
-- 🔭 I’m currently working on [Personal Project](http://github.com/shohei-akmt/bsky_project)
+- 🔭 I’m currently working on Chat GPT agent
 - 🌱 I’m currently learning Prompt Engineering
 - 🖥️ See my portfolio at [MyPortfolio](http://shohei-akmt.github.io/)
 - 📫 You can contact me at [shohei.akimoto@outlook.com](mailto:shohei.akimoto@outlook.com)
